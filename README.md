@@ -1,7 +1,7 @@
 ## Eai Dev! 🖐
 
 - 🔭 Atualmente Estou Estudando Desenvolvimento Web e Android...
-- 🌱 Eu Estou Aprendendo Android Nativo E HTML, CSS, JAVASCRIPT E BootStrap, Hospedagem...
+- 🌱 Eu Estou Aprendendo Android Nativo E HTML, CSS, JAVASCRIPT, BootStrap, Hospedagem, Etc...
 - 👯 Estou Em Busca Do Meu Primeiro Stágio e Experiência...
 - 💬 Sempre Buscando a Aprender Novas Tecnológias...
 - 👨‍🎓 Desejo Me Tornar Um Profissional FullStack, E Desenvolvedor de Software Em Geral.
@@ -10,3 +10,26 @@
 - 📫 Email: Thiagoangelos2020@gmail.com: ...
 - 🤵 LinkDin: https://www.linkedin.com/in/tiago-angelo2020/
 
+<hr>
+
+<div align="center">
+  <a href="https://github.com/ThiagoDevJunior">
+  <img align='center' height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoDevJunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDevJunior&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<hr>
+ 
+<div style="display: inline_block"><br>
+  <img width='70px' height='70px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img width='70px' height='70px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img width='70px' height='70px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img width='70px' height='70px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
+  <img width='70px' height='70px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
+  <img width='70px' height='70px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+  <img width='70px' height='70px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  <img width='70px' height='70px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+  <img width='70px' height='70px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg"/>
+</div>
+  
+<hr>
