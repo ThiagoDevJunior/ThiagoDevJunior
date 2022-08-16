@@ -5,8 +5,8 @@
 - 👯 Estou Em Busca Do Meu Primeiro Stágio e Experiência...
 - 💬 Sempre Buscando a Aprender Novas Tecnológias...
 - 👨‍🎓 Desejo Me Tornar Um Profissional FullStack, E Desenvolvedor de Software Em Geral.
-- 📱 Redes:
-- 🖥 GitHub: github.com/ThiagoDevJunior/
+- ✔ Redes:
+- 📱 WhatApp: 83-996399382
 - 📫 Email: Thiagoangelos2020@gmail.com: ...
 - 🤵 LinkDin: https://www.linkedin.com/in/tiago-angelo2020/
 
