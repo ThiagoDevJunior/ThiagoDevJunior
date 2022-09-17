@@ -9,6 +9,7 @@
 - 📱 WhatApp: 83-996399382
 - 📫 Email: Thiagoangelos2020@gmail.com: ...
 - 🤵 LinkDin: https://www.linkedin.com/in/tiago-angelo2020/
+- ⌻ Instagram: https://www.instagram.com/zztop______/
 
 <hr>
 
